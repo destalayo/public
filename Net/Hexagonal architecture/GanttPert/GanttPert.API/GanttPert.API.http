@@ -1,0 +1,6 @@
+@GanttPert.API_HostAddress = https://localhost:7072
+
+GET {{GanttPert.API_HostAddress}}/all
+Accept: application/json
+
+###
