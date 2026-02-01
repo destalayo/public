@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\core",
+    "\\src\\app\\core\\services",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\nav",
+    "\\src\\app\\shared\\reservations",
+    "\\src\\app\\shared\\rooms",
+    "\\src\\app\\shared\\seasons"
+  ],
+  "SelectedNode": "\\Dockerfile",
+  "PreviewInSolutionExplorer": false
+}

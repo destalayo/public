@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\auth\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\nav\\app.nav.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\nav\\app.nav.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\nav\\app.nav.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\nav\\app.nav.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\login\\app.login.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\feature\\login\\view.login.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\reservations\\app.reservations.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\feature\\login\\view.login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\login\\app.login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\reservations\\app.reservations.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\rooms\\app.rooms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\rooms\\app.rooms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\interceptor.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\auth\\interceptor.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\login\\app.login.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\domain\\session.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\domain\\session.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\reservations\\app.reservations.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\feature\\login\\view.login.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\guard.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\auth\\guard.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\seasons\\app.seasons.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\seasons\\app.seasons.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\users\\app.users.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\users\\app.users.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\rooms\\app.rooms.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\rooms\\app.rooms.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\shared\\extensions.services.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\shared\\extensions.services.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\shared\\shared.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\shared\\shared.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 544,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "angular.json",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-01T16:38:54.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-01T16:34:59.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.reservations.html",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\reservations\\app.reservations.html",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.html",
+              "RelativeToolTip": "src\\app\\shared\\reservations\\app.reservations.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-30T17:32:08.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.login.html",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\login\\app.login.html",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.html",
+              "RelativeToolTip": "src\\app\\shared\\login\\app.login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-30T16:49:43.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\auth.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\auth\\auth.service.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\auth.service.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\auth\\auth.service.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T10:10:46.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.rooms.html",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\rooms\\app.rooms.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\rooms\\app.rooms.html",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\rooms\\app.rooms.html",
+              "RelativeToolTip": "src\\app\\shared\\rooms\\app.rooms.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-30T17:32:59.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "view.login.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.ts",
+              "RelativeDocumentMoniker": "src\\app\\feature\\login\\view.login.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.ts",
+              "RelativeToolTip": "src\\app\\feature\\login\\view.login.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T17:49:32.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.login.scss",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.scss",
+              "RelativeDocumentMoniker": "src\\app\\shared\\login\\app.login.scss",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.scss",
+              "RelativeToolTip": "src\\app\\shared\\login\\app.login.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-01-30T16:49:34.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "guard.service.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\guard.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\auth\\guard.service.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\guard.service.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\auth\\guard.service.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T10:46:42.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "view.login.scss",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.scss",
+              "RelativeDocumentMoniker": "src\\app\\feature\\login\\view.login.scss",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.scss",
+              "RelativeToolTip": "src\\app\\feature\\login\\view.login.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-01-30T10:17:52.89Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 544,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.reservations.scss",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.scss",
+              "RelativeDocumentMoniker": "src\\app\\shared\\reservations\\app.reservations.scss",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.scss",
+              "RelativeToolTip": "src\\app\\shared\\reservations\\app.reservations.scss",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-01-30T16:52:47.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.nav.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\nav\\app.nav.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\nav\\app.nav.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\nav\\app.nav.ts",
+              "RelativeToolTip": "src\\app\\shared\\nav\\app.nav.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T11:54:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "view.login.html",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.html",
+              "RelativeDocumentMoniker": "src\\app\\feature\\login\\view.login.html",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\feature\\login\\view.login.html",
+              "RelativeToolTip": "src\\app\\feature\\login\\view.login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-30T17:49:24.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.seasons.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\seasons\\app.seasons.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\seasons\\app.seasons.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\seasons\\app.seasons.ts",
+              "RelativeToolTip": "src\\app\\shared\\seasons\\app.seasons.ts",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv1MAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T11:56:24.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.reservations.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\reservations\\app.reservations.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\reservations\\app.reservations.ts",
+              "RelativeToolTip": "src\\app\\shared\\reservations\\app.reservations.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T11:55:03.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "extensions.services.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\shared\\extensions.services.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\shared\\extensions.services.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\shared\\extensions.services.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\shared\\extensions.services.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T11:47:33.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "session.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\domain\\session.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\domain\\session.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\domain\\session.ts",
+              "RelativeToolTip": "src\\app\\core\\domain\\session.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T11:11:22.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.config.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\app.config.ts",
+              "RelativeToolTip": "src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T10:55:07.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "main.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T10:54:31.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "api.service.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\api.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\api.service.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\api.service.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\api.service.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T10:36:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.login.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\login\\app.login.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\login\\app.login.ts",
+              "RelativeToolTip": "src\\app\\shared\\login\\app.login.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T16:47:52.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.nav.html",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\nav\\app.nav.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\nav\\app.nav.html",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\nav\\app.nav.html",
+              "RelativeToolTip": "src\\app\\shared\\nav\\app.nav.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-30T17:48:09.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "interceptor.service.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\interceptor.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\auth\\interceptor.service.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\auth\\interceptor.service.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\auth\\interceptor.service.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwCQAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T10:52:23.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "app.rooms.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\rooms\\app.rooms.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\rooms\\app.rooms.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\rooms\\app.rooms.ts",
+              "RelativeToolTip": "src\\app\\shared\\rooms\\app.rooms.ts",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0gAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T11:55:50.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.users.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\users\\app.users.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\users\\app.users.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\shared\\users\\app.users.ts",
+              "RelativeToolTip": "src\\app\\shared\\users\\app.users.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T11:56:44.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T10:20:01.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "shared.service.ts",
+              "DocumentMoniker": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\shared\\shared.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\shared\\shared.service.ts",
+              "ToolTip": "F:\\David\\WorkSpace\\GitHub\\proyectos\\webs\\tests\\ETicketing.CA\\ETicketing.Front\\src\\app\\core\\services\\shared\\shared.service.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\shared\\shared.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-30T10:15:20.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

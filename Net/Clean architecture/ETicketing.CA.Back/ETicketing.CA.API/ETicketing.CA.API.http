@@ -1,0 +1,6 @@
+@ETicketing.CA.API_HostAddress = http://localhost:5219
+
+GET {{ETicketing.CA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

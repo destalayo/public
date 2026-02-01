@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Common.Utils/Common.Utils.csproj" Id="6bad68e0-07a0-40c1-b552-c2d9ca12186c" />
+  <Project Path="ETicketing.CA.API/ETicketing.CA.API.csproj" />
+  <Project Path="ETicketing.CA.Application/ETicketing.CA.Application.csproj" Id="215edc84-663a-48c1-a4fc-087fdd6b8a00" />
+  <Project Path="ETicketing.CA.Domain/ETicketing.CA.Domain.csproj" Id="eb40f1e5-93a1-4a8f-8c56-2f402adae6e0" />
+  <Project Path="ETicketing.CA.Infrastructure/ETicketing.CA.Infrastructure.csproj" Id="8aff543c-4896-45fd-b64d-7c23b87195f0" />
+</Solution>
