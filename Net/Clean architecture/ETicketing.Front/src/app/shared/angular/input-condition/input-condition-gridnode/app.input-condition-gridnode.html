@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="cell-btn">
+    <app-icon-button [show]="node.nodeType==NodeType.Operator" [icon]="'fa-square-plus'" [size]="25" [color]="'#52ef04'" (clicked)="addChild()"></app-icon-button>
+  </div>
+  <div class="cell-btn">
+    <app-icon-button [show]="parentNode!=null" [icon]="'fa-square-minus'" [size]="25" [color]="'#ef0404'" (clicked)="removeNode()"></app-icon-button>
+  </div>
+  <div class="cell-select">
+    <app-select [(selectedValue)]="node.nodeType" [options]="nodeTypes" [valueField]="'id'" [labelField]="'name'" (valueChanged)="onChangeType()">></app-select>
+  </div>
+  <div *ngIf="node.nodeType==NodeType.Operator" class="cell-select">
+    <app-select [(selectedValue)]="node.operatorType" [options]="operationTypes" [valueField]="'id'" [labelField]="'name'">></app-select>
+
+  </div>
+  <div class="cell-select" *ngIf="node.nodeType==NodeType.Comparator">
+    <app-select [(selectedValue)]="node.tableId" [options]="tableList" [valueField]="'id'" [labelField]="'name'">></app-select>
+  </div>
+  <div class="cell-select" *ngIf="node.nodeType==NodeType.Comparator">
+    <app-select [(selectedValue)]="node.fieldId" [options]="getFields()" [valueField]="'id'" [labelField]="'name'">></app-select>
+  </div>
+  <div class="cell-select" *ngIf="node.nodeType==NodeType.Comparator">
+    <app-select [(selectedValue)]="node.comparatorType" [options]="getComparations()" [valueField]="'id'" [labelField]="'name'">></app-select>
+  </div>
+  <div class="cell-select" *ngIf="node.nodeType==NodeType.Comparator">
+    <app-input-datetime *ngIf="fieldType==FieldType.Date" [(ngModel)]="node.value"></app-input-datetime>
+    <app-input-check *ngIf="fieldType==FieldType.Bool" [size]="25" [(ngModel)]="node.value"></app-input-check>
+    <app-input-number *ngIf="fieldType==FieldType.Number" [(ngModel)]="node.value"></app-input-number>
+    <app-input-text *ngIf="fieldType==FieldType.Text" [(ngModel)]="node.value"></app-input-text>
+  </div>
+</div>
+<ng-container *ngIf="!(node.nodeType==NodeType.Operator && (node.children==null || node.children.length==0 || (node.children.length>0 && node.compressed)))">
+  <ng-container *ngFor="let child of node.children">
+    <app-input-condition-gridnode [nodeTypes]="nodeTypes" [operationTypes]="operationTypes" [comparationTypes]="comparationTypes" [tableList]="tableList" [node]="child" [parentNode]="node"></app-input-condition-gridnode>
+  </ng-container>
+</ng-container>

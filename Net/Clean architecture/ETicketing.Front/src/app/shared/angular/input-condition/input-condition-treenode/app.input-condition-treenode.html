@@ -1,0 +1,10 @@
+<div class="treenode-container" [ngStyle]="parentNode == null ? { 'border': '0px' } : {}">  
+  <div class="treenode-header"><app-icon-button [icon]="{'fa-square-plus': node.nodeType==NodeType.Operator && node.children!=null && node.children.length>0 && node.compressed, 'fa-square-minus' : node.nodeType==NodeType.Operator && node.children!=null && node.children.length>0 && !node.compressed }" [size]="20" [color]="'#adadad'" (clicked)="toggleCompress(node)"></app-icon-button><span style="white-space: nowrap;"> {{getTreeText()}}</span></div>
+  <div class="treenode-body" [hidden]="node.nodeType==NodeType.Operator && (node.children==null || node.children.length==0 || (node.children.length>0 && node.compressed))">
+    <ng-container *ngFor="let child of node.children">
+      <app-input-condition-treenode [nodeTypes]="nodeTypes" [operationTypes]="operationTypes" [comparationTypes]="comparationTypes" [tableList]="tableList" [node]="child" [parentNode]="node"></app-input-condition-treenode>
+    </ng-container>
+  </div>
+</div>
+
+

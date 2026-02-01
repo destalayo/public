@@ -1,0 +1,21 @@
+:host {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.green{
+    color:greenyellow;
+}
+.red{
+    color:red;
+}
+.white {
+  color: #cfcfcf;
+}
+div:hover {
+  filter: brightness(150%);
+}
+
+
+

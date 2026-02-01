@@ -1,0 +1,18 @@
+:host {
+  width: 100%;
+  height: 100%;
+}
+.container {
+  display: flex;
+  width: 100%;
+  height: 30px;
+  text-align: left;
+}
+.cell-btn {
+  width: 30px;
+}
+.cell-select {
+  width: 150px;
+  padding:0px 5px;
+}
+

@@ -1,0 +1,24 @@
+<section class="content">
+  <app-formulary [form]="form">
+    <div [formGroup]="form">
+      <div class="form-container-body-item">
+        <div>Email</div>
+        <div>
+          <app-input-text [formControlName]="'email'"></app-input-text>
+        </div>
+      </div>
+      <div class="form-container-body-item">
+        <div>Contraseña</div>
+        <div>
+          <app-input-text [formControlName]="'password'"></app-input-text>
+        </div>
+      </div>
+      <div class="form-container-body-item">
+        <app-button label="Entrar" (clicked)="login()"></app-button>
+      </div>
+    </div>
+  </app-formulary>
+</section>
+
+
+

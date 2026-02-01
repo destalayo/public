@@ -1,0 +1,32 @@
+<ng-container *ngTemplateOutlet="commonBlock"></ng-container>
+
+
+<app-modal [style]="'width:95%; height:95%;'">
+  <div class="container">
+    <div class="pic"><img [src]="pics[selected]" class="img-big" /></div>
+    <div class="gallery"><ng-container *ngTemplateOutlet="commonBlock"></ng-container></div>    
+  </div>
+</app-modal>
+
+<ng-template #commonBlock>
+  <div class="gallery-container">
+    <div class="gallery-container-arrows">
+      <div>
+        <app-icon-button icon="fa-solid fa-circle-chevron-left" [size]="30" [color]="'#898989'" (clicked)="left()"></app-icon-button>
+      </div>
+    </div>
+    <div class="gallery-container-center">
+      <div class="img clickable" *ngFor="let pic of pics; let i = index" [class.selected]="selected==i" #imgRef (click)="openPic(i)">
+        <img [src]="pic" class="img-fit" />
+      </div>
+    </div>
+    <div class="gallery-container-arrows">
+      <div>
+        <app-icon-button icon="fa-solid fa-circle-chevron-right" [size]="30" [color]="'#898989'" (clicked)="right()"></app-icon-button>
+      </div>
+    </div>
+  </div>
+</ng-template>
+
+
+

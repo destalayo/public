@@ -1,0 +1,66 @@
+<section>
+  <div class="header">
+    Sesiones
+  </div>
+
+  <div class="content">
+    <div class="cards">
+      <div class="card card-new clickable" (click)="addModal()">
+        <div class="card-icon"><span class="fa-solid fa-plus"></span></div>
+        <div class="card-header">Nueva sesión</div>
+      </div>
+      <div class="card" *ngFor="let option of seasons">
+        <div class="card-icon"><span class="fa-solid fa-calendar-check"></span></div>
+        <div class="card-header">{{option.name}}</div>
+        <div class="card-info">{{getRoomName(option.roomId)}}</div>
+        <div class="card-option clickable" (click)="editModal(option)"><span class="fa-solid fa-pencil"></span></div>
+        <div class="card-option clickable" (click)="delete(option)"><span class="fa-solid fa-cancel"></span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<app-modal #modalAdd [titulo]="'Nuevo'" [style]="'width:80%; min-height:40%;'">
+  <div class="form-container">
+    <div class="form-container-body">
+      <app-formulary [form]="addForm">
+        <div [formGroup]="addForm">
+          <div class="form-container-body-item">
+            <div>Nombre</div>
+            <div>
+              <app-input-text [formControlName]="'name'"></app-input-text>
+            </div>
+          </div>
+          <div class="form-container-body-item">
+            <div>Sala</div>
+            <div>
+              <app-select [formControlName]="'roomId'" [options]="rooms" [valueField]="'id'" [labelField]="'name'"></app-select>
+            </div>
+          </div>
+        </div>
+      </app-formulary>
+    </div>
+    <div class="form-container-bottom">
+      <app-button label="Crear" (clicked)="add()"></app-button>
+    </div>
+  </div>
+</app-modal>
+<app-modal #modalEdit [titulo]="'Editar'" [style]="'width:80%; min-height:40%;'">
+  <div class="form-container">
+    <div class="form-container-body">
+      <app-formulary [form]="editForm">
+        <div [formGroup]="editForm">
+          <div class="form-container-body-item">
+            <div>Nombre</div>
+            <div>
+              <app-input-text [formControlName]="'name'"></app-input-text></div>
+          </div>
+        </div>
+      </app-formulary>
+    </div>
+    <div class="form-container-bottom">
+      <app-button label="Editar" (clicked)="edit()"></app-button>
+    </div>
+  </div>
+</app-modal>

@@ -1,0 +1,32 @@
+<div class="table-container">    
+    <table>
+        <thead class="table-header">
+            <tr>
+                <th *ngIf="showSelectColumn==true" scope="col"><input type="checkbox" (change)="onSelectAll()" [(ngModel)]="allSelected"></th>
+                <ng-container *ngTemplateOutlet="headerTemplate; context: { viewColumns:viewColumns }"></ng-container>
+            </tr>
+            <tr>
+                <th *ngIf="showSelectColumn==true" scope="col"></th>
+                <th *ngFor="let column of viewColumns">
+                  <app-input-text [(ngModel)]="filters[column.id]"></app-input-text>
+                </th>
+            </tr>
+        </thead>
+        <tbody class="table-body">
+            <tr *ngFor="let row of paginatedSource">
+                <td *ngIf="showSelectColumn==true" (click)="onSelect(row)"><input class="form-check-input" type="checkbox" [(ngModel)]="row.selected$$$"></td>
+                <ng-container *ngTemplateOutlet="bodyTemplate; context: { row:row, viewColumns:viewColumns }"></ng-container>
+            </tr>
+        </tbody>
+    </table>  
+</div>
+<div class="selection-info">
+  {{selectedByColumnId.length}} seleccionados de un total de {{filteredSource.length}} registros.
+</div>
+<div class="paginator-container">
+  <div><app-button label="Primera" (clicked)="btnFirst()"></app-button></div>
+  <div><app-button label="Anterior" (clicked)="btnPrevious()"></app-button></div>
+  <div><app-input-text [(ngModel)]="currentPage"></app-input-text></div>
+  <div><app-button label="Siguiente" (clicked)="btnNext()"></app-button></div>
+  <div><app-button label="Última" (clicked)="btnLast()"></app-button></div>
+</div>

@@ -1,0 +1,7 @@
+<app-nav></app-nav>
+<ng-container *ngIf="_shs.stateChanged$ | async as state">
+  <article [ngClass]="{ 'fade-out': state.isNavigation }">
+    <router-outlet></router-outlet>
+  </article>
+  <app-spinner [isLoading]="state.isLoading"></app-spinner>
+</ng-container>

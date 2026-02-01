@@ -1,0 +1,9 @@
+<div class="accordion-container">
+  <div class="accordion-header">
+    <h2>{{ title }}</h2>
+    <app-icon-button [icon]="{'fa-chevron-up': show, 'fa-chevron-down' : !show }" [size]="20" [color]="'#adadad'" (clicked)="toogle()"></app-icon-button>      
+  </div>
+  <div class="accordion-body" [class.show]="show">
+    <ng-content></ng-content>
+  </div>
+</div>

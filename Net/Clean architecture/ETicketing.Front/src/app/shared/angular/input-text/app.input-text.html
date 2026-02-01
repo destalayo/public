@@ -1,0 +1,5 @@
+<input *ngIf="show"
+       type="text"
+       [value]="value"
+       (input)="onInput($event)"
+       (blur)="onTouched()" />

@@ -1,0 +1,14 @@
+<section>
+  <div class="header">
+    Menú
+  </div>
+  <div class="content">
+    <div class="cards">
+      <div class="card clickable" *ngFor="let option of (_shs.stateChanged$ | async)?.navOptions"  (click)="goto(option)">
+        <div class="card-icon"><span class="{{option.icon}}"></span></div>
+        <div class="card-header">{{option.title}}</div>
+      </div>
+    </div>
+  </div>
+</section>
+

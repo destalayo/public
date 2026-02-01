@@ -1,0 +1,16 @@
+.table-container {
+  padding: 5px;
+  overflow-x: auto;
+  overflow-y: auto;
+  min-height:300px;
+}
+.paginator-container {
+  display: flex;
+  justify-content: center;
+}
+.table-header, .selection-info {
+  color: white;
+}
+.table-body {
+  color: #a8c5bf;
+}

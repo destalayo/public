@@ -1,0 +1,16 @@
+<nav class="navbar">
+  <div class="nav-left">
+    <div *ngFor="let option of (_shs.stateChanged$ | async)?.navOptions"  [class.selected]="option.selected" class="nav-option clickable" (click)="goto(option)">
+      <div class="nav-option-body"  title="{{option.title}}">
+        <div class="{{option.icon}}"></div><div style="font-size:17px;">{{option.title}}</div>
+      </div>
+    </div>
+    </div>
+  <div class="nav-right">
+    <div class="nav-option clickable" (click)="logout()" >
+      {{userName}}
+    </div>
+  </div>
+</nav>
+
+

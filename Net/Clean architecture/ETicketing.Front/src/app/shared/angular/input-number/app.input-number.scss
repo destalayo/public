@@ -1,0 +1,24 @@
+:host {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+input {
+  border: 2px solid #495057;
+  border-radius: 5px;
+  box-sizing: border-box;
+  color: #f2fff2;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  height: 100%;
+  justify-content: center;
+  line-height: 24px;
+  max-width: 100%;
+  padding: 0 25px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  width: 100%;
+  background-color: #212529;
+}

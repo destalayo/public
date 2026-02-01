@@ -1,0 +1,11 @@
+<div *ngIf="show" class="modal-backdrop">
+  <div class="modal-content" [ngClass]="extraClass" style="{{style}}">
+    <div class="modal-content-header">
+      <h2>{{ titulo }}</h2>
+      <app-icon-button icon="fa-solid fa-close" [size]="30" [color]="'red'" (clicked)="cerrar()"></app-icon-button>
+    </div>
+    <div class="modal-content-body">
+      <ng-content></ng-content>
+    </div>    
+  </div>
+</div>
